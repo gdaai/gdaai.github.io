@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gdaai.github.io/KfZ/sitemap.KfZ.gz
